@@ -2,7 +2,7 @@
 
 ## Concepto
 	
-	El TreeSet es una implementación de la interfaz SortedSet
+El TreeSet es una implementación de la interfaz SortedSet
 de Java y que almacena los datos en forma de árbol binario. El TreeSet 
 permite almacenar valores no duplicados los cuales son ordenados en el 
 momento en el que se insertan. Se puede definir un comparator para 
@@ -19,7 +19,7 @@ busquedas más rápidas que en un HashSet
 
 ## Ejemplo
 
-'''
+```java
 import java.util.TreeSet;
 import java.util.Iterator;
 
@@ -49,14 +49,14 @@ class Main {
         }
     }
 }
-'''
+```
 
 Resultado
 
-'''
+```
 TreeSet: [1, 3, 4, 6]
 TreeSet con iterador: 1, 3, 4, 6
-'''
+```
 
 ## Métodos
 
