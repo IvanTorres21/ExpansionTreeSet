@@ -68,3 +68,5 @@ Algunos métodos que se pueden usar con TreeSet son:
 - first() -> Devuelve el valor más pequeño del TreeSet
 - last() -> Devuel el valor más pequeño del TreeSet
 - size() -> Devuelve la cantidad de elementos del TreeSet
+
+Para más métodos e información sobre los TreeSet ver la (referencia de Java)[https://docs.oracle.com/javase/7/docs/api/java/util/TreeSet.html]
